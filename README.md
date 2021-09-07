@@ -6,3 +6,7 @@ Switch Case &amp; Date
 Version 2 
 
 - Optimizing the code
+
+Version 3
+
+-Third option: creating functions with date and array
